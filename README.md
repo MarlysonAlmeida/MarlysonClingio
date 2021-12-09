@@ -1,4 +1,4 @@
-- Estudo conceitos de Back-End e Front-End, linguagem C#, plataforma e frameworks .NET, arquitetura de software, banco de dados SQL, além de HTML e CSS.
+- Estudo conceitos de programação em Linguagem C#, plataforma e frameworks .NET, arquitetura de software, banco de dados SQL, além de HTML e CSS.
 - Contatos: marlysonalmeida@gmail.com / (85)98624-9480(WhatsApp) / https://www.linkedin.com/in/marlyson-clingio-0275b3a5/
 
 <div>
