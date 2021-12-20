@@ -1,4 +1,4 @@
-- Estudo conceitos de teste e qualidade de software
+- Estudo conceitos de teste, automação e qualidade de software
 - Contatos: marlysonalmeida@gmail.com / (85)98624-9480(WhatsApp) / https://www.linkedin.com/in/marlyson-clingio-0275b3a5/
 
 <div>
