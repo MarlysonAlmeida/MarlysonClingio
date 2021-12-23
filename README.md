@@ -1,4 +1,15 @@
-- Estudo conceitos de teste, automação e qualidade de software
+- Tenho curso técnico em redes de computadores, quando comecei a me interessar pela área de TI.
+
+- Fui professor de tecnologia, onde me identifiquei principalmente com a programação e o desenvolvimento.
+
+- Faço bacharelado em ciências da computação, com o objetivo de me aprofundar em conceitos de cálculo, algoritmos, inteligência artificial, aprendizado de máquina e assuntos relacionados a computação.
+
+- Tenho certificações Agile em Scrum (SFPC e SFC), Kanban e DevOps.
+
+- Possuo Conhecimento nas linguagens de programação C# .NET e JAVA.
+
+- Hoje estudo conceitos de Teste, Automação e Qualidade de Software, com o intuito de ingressar na carreira de Analista de Testes e QA
+
 - Contatos: marlysonalmeida@gmail.com / (85)98624-9480(WhatsApp) / https://www.linkedin.com/in/marlyson-clingio-0275b3a5/
 
 <div>
