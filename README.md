@@ -6,7 +6,7 @@
 
 - Tenho certificações Agile em Scrum (SFPC e SFC), Kanban e DevOps.
 
-- Possuo Conhecimento nas linguagens de programação C# e JAVA.  Além de ajudar em conceitos de lógica de programação, POO e desenvolvimento básico, utilizando essas linguagens, para familiares, amigos e colegas que gostariam de iniciar na área de TI.
+- Possuo Conhecimento nas linguagens de programação C# e JAVA.  Além de ajudar em conceitos de lógica de programação, POO e desenvolvimento básico, utilizando essas linguagens, para ensinar familiares, amigos e colegas que gostariam de iniciar na área de TI.
 
 - Hoje estudo conceitos de Teste, Automação e Qualidade de Software, com o intuito de ingressar na carreira de Analista de Testes e QA
 
