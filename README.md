@@ -6,9 +6,9 @@
 
 - Tenho certificações Agile em Scrum (SFPC e SFC), Kanban e DevOps.
 
-- Possuo Conhecimento nas linguagens de programação C# e JAVA.  Além de ajudar em conceitos de lógica de programação, POO e desenvolvimento básico, utilizando essas linguagens, para ensinar familiares, amigos e colegas que gostariam de iniciar na área de TI.
+- Possuo Conhecimento nas linguagens de programação C#, Java e Ruby.
 
-- Hoje estudo conceitos de Teste, Automação e Qualidade de Software, com o intuito de ingressar na carreira de Analista de Testes e QA
+- Hoje estudo conceitos de Desenvolvimento de software, Testes, Automação e Qualidade de Software, com o intuito de ingressar na carreira de Desenvolvedor de software ou Analista de Testes.
 
 - Contatos: marlysonalmeida@gmail.com / (85)98624-9480(WhatsApp) / https://www.linkedin.com/in/marlyson-clingio-0275b3a5/
 
@@ -19,10 +19,9 @@
 </div>
   
   <div style="display: inline_block"><br>
-  <img align="center" alt="Marlyson-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Marlyson-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Marlyson-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Marlyson-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+   <img align="center" alt="Marlyson-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
 </div>
   
   ##
