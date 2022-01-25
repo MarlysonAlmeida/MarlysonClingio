@@ -6,9 +6,7 @@
 
 - Tenho certificações Agile em Scrum (SFPC e SFC), Kanban e DevOps.
 
-- Possuo Conhecimento nas linguagens de programação C#, Java e Ruby.
-
-- Hoje estudo conceitos de Desenvolvimento de software, Testes, Automação e Qualidade de Software, com o intuito de ingressar na carreira de Desenvolvedor de software ou Analista de Testes.
+- Atualmente sou desenvolvedor web com Ruby on Rails na Brasil System.
 
 - Contatos: marlysonalmeida@gmail.com / (85)98624-9480(WhatsApp) / https://www.linkedin.com/in/marlyson-clingio-0275b3a5/
 
