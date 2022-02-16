@@ -4,7 +4,7 @@
 
 - Faço bacharelado em ciências da computação, com o objetivo de me aprofundar em conceitos de cálculo, algoritmos, inteligência artificial, aprendizado de máquina e assuntos relacionados a computação.
 
-- Tenho certificações Agile em Scrum (SFPC e SFC), Kanban e DevOps.
+- Possuo certificações Agile em Scrum (SFPC e SFC), Kanban e DevOps.
 
 - Atualmente sou desenvolvedor web com Ruby on Rails na Brasil System.
 
