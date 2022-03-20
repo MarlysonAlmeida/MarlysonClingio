@@ -8,7 +8,7 @@
 
 - Adquiri conhecimento nas linguagens Java, Javascript, C# e Ruby.
 
-- Atualmente sou desenvolvedor web júnior na Brasil System.
+- Atualmente sou desenvolvedor web júnior
 
 - Contatos: marlysonalmeida@gmail.com / (85)98624-9480(WhatsApp) / https://www.linkedin.com/in/marlyson-clingio-0275b3a5/
 
