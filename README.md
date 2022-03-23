@@ -6,7 +6,9 @@
 
 - Possuo certificações Agile em Scrum (SFPC e SFC), Kanban e DevOps.
 
-- Adquiri conhecimento nas linguagens Java, Javascript, C# e Ruby.
+- Obtive conhecimento nas linguagens Java, Javascript, C# e Ruby.
+
+- Apaixonado por assuntos relacionados a Testes de software e QA.
 
 - Atualmente sou desenvolvedor web júnior com ruby on rails
 
