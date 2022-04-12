@@ -10,9 +10,12 @@
 
 - Apaixonado por assuntos relacionados a Testes de software e QA.
 
+
 E-mail: marlysonalmeida@gmail.com
+
 Telefone: (85) 98624-9480
-GitHub:  https://github.com/MarlysonClingio
+
+GitHub: https://github.com/MarlysonClingio
 
 
 <div>
