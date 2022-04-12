@@ -1,6 +1,6 @@
 - Tenho curso técnico em redes de computadores, quando comecei a me interessar pela área de TI.
 
-- Fui professor de tecnologia, onde me identifiquei principalmente com a programação e o desenvolvimento.
+- Fui professor de tecnologia e desenvolvedor web, onde me identifiquei com a programação e o desenvolvimento de softwares.
 
 - Faço bacharelado em ciências da computação, com o objetivo de me aprofundar em conceitos de cálculo, algoritmos, inteligência artificial, aprendizado de máquina e assuntos relacionados a computação.
 
@@ -10,9 +10,10 @@
 
 - Apaixonado por assuntos relacionados a Testes de software e QA.
 
-- Atualmente sou desenvolvedor web júnior com ruby on rails
+E-mail: marlysonalmeida@gmail.com
+Telefone: (85) 98624-9480
+GitHub:  https://github.com/MarlysonClingio
 
-- Contatos: marlysonalmeida@gmail.com / (85)98624-9480(WhatsApp) / https://www.linkedin.com/in/marlyson-clingio-0275b3a5/
 
 <div>
   <a href="https://github.com/MarlysonClingio">
