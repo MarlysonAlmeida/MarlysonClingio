@@ -35,6 +35,7 @@ GitHub: https://github.com/MarlysonClingio<br>
     <img align="center" alt="Marlyson-HTML" height="35" width="45" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg">
     <img align="center" alt="Marlyson-CSS" height="35" width="45" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg">
     <img align="center" alt="Marlyson-Bootstrap" height="35" width="45" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
+    <img align="center" alt="Marlyson-PostgreSQL" height="35" width="45" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
 </div>
   
   ##
