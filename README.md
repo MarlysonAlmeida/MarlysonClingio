@@ -36,6 +36,7 @@ GitHub: https://github.com/MarlysonClingio<br>
     <img align="center" alt="Marlyson-VisualStudio" height="35" width="45" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg">
     <img align="center" alt="Marlyson-VSCode" height="35" width="45" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
     <img align="center" alt="Marlyson-Ubuntu" height="35" width="45" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg">
+    <img align="center" alt="Marlyson-Windows" height="35" width="45" src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg">
 </div>
   
   ##
