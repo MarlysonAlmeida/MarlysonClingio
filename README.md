@@ -10,9 +10,6 @@
 
 - Apaixonado por assuntos relacionados a Testes de software e QA.
 
-- Atualmente atuo como Estagiário de qualidade de software na FitBank
-
-
 E-mail: marlysonalmeida@gmail.com<br>
 Telefone: (85) 98624-9480<br>
 GitHub: https://github.com/MarlysonClingio<br>
