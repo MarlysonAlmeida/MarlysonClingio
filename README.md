@@ -22,7 +22,7 @@ GitHub: https://github.com/MarlysonClingio<br>
 </div>
   
   <div style="display: inline_block"><br>
-    <img align="center" alt="Marlyson-Rails" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-plain-wordmark.svg">
+    <img align="center" alt="Marlyson-Rails" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-plain.svg">
     <img align="center" alt="Marlyson-Ruby" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
     <img align="center" alt="Marlyson-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
     <img align="center" alt="Marlyson-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
@@ -33,10 +33,10 @@ GitHub: https://github.com/MarlysonClingio<br>
     <img align="center" alt="Marlyson-CSS" height="35" width="45" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg">
     <img align="center" alt="Marlyson-Bootstrap" height="35" width="45" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
     <img align="center" alt="Marlyson-PostgreSQL" height="35" width="45" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
-    <img align="center" alt="Marlyson-VisualStudio" height="35" width="45" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg">
-    <img align="center" alt="Marlyson-VSCode" height="35" width="45" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
-    <img align="center" alt="Marlyson-Ubuntu" height="35" width="45" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg">
-    <img align="center" alt="Marlyson-Windows" height="35" width="45" src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg">
+    <img align="center" alt="Marlyson-VisualStudio" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg">
+    <img align="center" alt="Marlyson-VSCode" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
+    <img align="center" alt="Marlyson-Ubuntu" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg">
+    <img align="center" alt="Marlyson-Windows" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg">
 </div>
   
   ##
