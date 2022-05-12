@@ -1,4 +1,4 @@
-- Tenho curso técnico em redes de computadores e realizei um estágio em tecnologia, passando a me interessar ainda mais pela área de TI.
+- Tenho curso técnico em redes de computadores e realizei um estágio em tecnologia, me interessando ainda mais pela área de TI.
 
 - Fui professor de informática e desenvolvedor web, onde melhorei minhas habilidades de comunicação e pesquisa, além de me identificar com a programação e o desenvolvimento de softwares.
 
