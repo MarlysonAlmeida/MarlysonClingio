@@ -1,6 +1,6 @@
-- Tenho curso técnico em redes de computadores, quando comecei a me interessar pela área de TI.
+- Tenho curso técnico em redes de computadores e realizei um estágio em tecnologia, passando a me interessar ainda mais pela área de TI.
 
-- Fui professor de tecnologia e desenvolvedor web, onde me identifiquei com a programação e o desenvolvimento de softwares.
+- Fui professor de informática e desenvolvedor web, onde melhorei minhas habilidades de comunicação e pesquisa, além de me identificar com a programação e o desenvolvimento de softwares.
 
 - Faço bacharelado em ciências da computação, com o objetivo de me aprofundar em conceitos de cálculo, algoritmos, inteligência artificial, aprendizado de máquina e assuntos relacionados a computação.
 
