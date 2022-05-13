@@ -1,4 +1,4 @@
-- Tenho curso técnico em redes de computadores e realizei um estágio em tecnologia, me interessando ainda mais pela área de TI.
+- Tenho curso técnico em redes de computadores e realizei um estágio em tecnologia, que fez com que eu pudesse ingressar na área da TI.
 
 - Fui professor de informática e desenvolvedor web, onde melhorei minhas habilidades de comunicação e pesquisa, além de me identificar com a programação e o desenvolvimento de softwares.
 
@@ -8,11 +8,11 @@
 
 - Obtive conhecimento nas linguagens Java, Javascript, C# e Ruby.
 
-- Apaixonado por assuntos relacionados a Testes de software e QA.
+- Apaixonado por assuntos relacionados a Testes de software e QA, onde hoje atuo como profissional nessa área, sempre me atualizando e buscando mais conhecimento.
 
 E-mail: marlysonalmeida@gmail.com<br>
 Telefone: (85) 98624-9480<br>
-GitHub: https://github.com/MarlysonClingio<br>
+GitHub:  https://github.com/MarlysonClingio<br>
 
 
 <div>
