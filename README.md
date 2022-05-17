@@ -24,6 +24,7 @@ GitHub:  https://github.com/MarlysonClingio<br>
   <div style="display: inline_block"><br>
     <img align="center" alt="Marlyson-Rails" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-plain.svg">
     <img align="center" alt="Marlyson-Ruby" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
+    <img align="center" alt="Marlyson-Rspec" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/rspec/rspec-original.svg">
     <img align="center" alt="Marlyson-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
     <img align="center" alt="Marlyson-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
     <img align="center" alt="Marlyson-Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
