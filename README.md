@@ -8,7 +8,7 @@
 
 - Obtive conhecimento nas linguagens Java, Javascript, C# e Ruby.
 
-- Apaixonado por assuntos relacionados a Testes de software e QA, onde hoje atuo como profissional nessa área, sempre me atualizando e buscando mais conhecimento.
+- Apaixonado por assuntos relacionados a Testes de software, QA e desenvolvimento, sempre me atualizando e buscando mais conhecimento.
 
 E-mail: marlysonalmeida@gmail.com<br>
 Telefone: (85) 98624-9480<br>
