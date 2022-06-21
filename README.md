@@ -1,14 +1,14 @@
-- Tenho curso técnico em redes de computadores e realizei um estágio em tecnologia, que fez com que eu pudesse ingressar na área da TI.
+- Tenho curso técnico em redes de computadores que fez com que eu pudesse ingressar na área da TI.
 
-- Fui professor de informática e desenvolvedor web, onde melhorei minhas habilidades de comunicação e pesquisa, além de me identificar com a programação e o desenvolvimento de softwares.
+- Fui professor de informática e realizei um estágio em desenvolvimento web, onde melhorei minhas habilidades de comunicação e pesquisa, além de me identificar com a programação e o desenvolvimento de softwares.
 
-- Faço bacharelado em ciências da computação, com o objetivo de me aprofundar em conceitos de cálculo, algoritmos, inteligência artificial, aprendizado de máquina e assuntos relacionados a computação.
+- Faço bacharelado em ciências da computação com o objetivo de me aprofundar em conceitos de cálculo, algoritmos, automação, inteligência artificial, aprendizado de máquina e outros assuntos relacionados.
 
 - Possuo certificações Agile em Scrum (SFPC e SFC), Kanban e DevOps.
 
 - Obtive conhecimento nas linguagens Java, Javascript, C#, Ruby e Golang.
 
-- Apaixonado por assuntos relacionados a Testes de software e QA.
+- Apaixonado por Testes de software, automação e QA.
 
 E-mail: marlysonalmeida@gmail.com<br>
 Telefone: (85) 98624-9480<br>
