@@ -28,7 +28,6 @@ Telefone: (85) 98624-9480<br>
     <img align="center" alt="Marlyson-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
     <img align="center" alt="Marlyson-Golang" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg">
     <img align="center" alt="Marlyson-Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-    <img align="center" alt="Marlyson-VueJs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg">
     <img align="center" alt="Marlyson-Selenium" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg">
     <img align="center" alt="Marlyson-Cucumber" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cucumber/cucumber-plain.svg">
     <img align="center" alt="Marlyson-HTML" height="35" width="45" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg">
