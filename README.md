@@ -1,6 +1,6 @@
 - Tenho curso técnico em redes de computadores que fez com que eu pudesse ingressar na área da TI.
 
-- Fui professor de informática e realizei um estágio em desenvolvimento web, onde melhorei minhas habilidades de comunicação e pesquisa, além de me identificar com a programação e o desenvolvimento de softwares.
+- Fui professor de informática onde melhorei minhas habilidades de comunicação e pesquisa, além de me identificar com a programação e o desenvolvimento de softwares.
 
 - Faço bacharelado em ciências da computação com o objetivo de me aprofundar em conceitos de cálculo, algoritmos, automação, inteligência artificial, aprendizado de máquina e outros assuntos relacionados.
 
