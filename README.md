@@ -1,6 +1,6 @@
 - Tenho curso técnico em redes de computadores que fez com que eu pudesse ingressar na área da TI.
 
-- Fui professor de informática onde melhorei minhas habilidades de comunicação e pesquisa, além de me identificar com a programação e o desenvolvimento de softwares.
+- Fui professor de informática onde melhorei minhas habilidades de pesquisa, além de me identificar com a programação e o desenvolvimento de softwares.
 
 - Faço bacharelado em ciências da computação com o objetivo de me aprofundar em conceitos de cálculo, algoritmos, automação, inteligência artificial, aprendizado de máquina e outros assuntos relacionados.
 
@@ -8,7 +8,7 @@
 
 - Obtive conhecimento nas linguagens Java, Javascript, C#, Ruby e Golang.
 
-- Apaixonado por Testes de software, automação e QA.
+- Apaixonado por Automação de Testes de Software.
 
 E-mail: marlysonalmeida@gmail.com<br>
 Telefone: (85) 98624-9480<br>
