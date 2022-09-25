@@ -8,7 +8,7 @@
 
 - Obtive conhecimento nas linguagens Java, Javascript, C#, Ruby e Golang.
 
-- Estudante de Automação de Testes de Software(Testes automatizados)
+- Estudante apaixonado e assíduo de Automação de Testes de software e futuro Analista de Testes Automatizados
 
 E-mail: marlysonalmeida@gmail.com<br>
 Telefone: (85) 98624-9480<br>
