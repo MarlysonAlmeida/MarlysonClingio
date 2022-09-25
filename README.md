@@ -14,23 +14,23 @@
 
     ✓ BDD
 
-✓ TDD
+    ✓ TDD
 
-✓ REST Assured
+    ✓ REST Assured
 
-✓ Cypress
+    ✓ Cypress
 
-✓ Capybara
+    ✓ Capybara
 
-✓ JUnit
+    ✓ JUnit
 
-✓ Selenium Webdriver
+    ✓ Selenium Webdriver
 
-✓ Rspec
+    ✓ Rspec
 
-✓ Httparty
+    ✓ Httparty
 
-✓ Cucumber
+    ✓ Cucumber
 
 
 
