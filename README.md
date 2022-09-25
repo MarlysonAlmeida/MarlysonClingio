@@ -12,15 +12,24 @@
 
 - Hard Skills:
 
-✓ BDD
+    ✓ BDD
+
 ✓ TDD
+
 ✓ REST Assured
+
 ✓ Cypress
+
 ✓ Capybara
+
 ✓ JUnit
+
 ✓ Selenium Webdriver
+
 ✓ Rspec
+
 ✓ Httparty
+
 ✓ Cucumber
 
 
