@@ -8,7 +8,7 @@
 
 - Obtive conhecimento nas linguagens Java, Javascript, C#, Ruby e Golang.
 
-- Estudante de Testes Automatizados e Analista de Automação de Testes
+- Estudante de Testes Automatizados
 
 - Hard Skills:
 
