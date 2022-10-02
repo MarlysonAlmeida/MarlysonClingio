@@ -24,6 +24,8 @@
 
     ✓ JUnit
 
+    ✓ XUnit
+
     ✓ Selenium Webdriver
 
     ✓ Rspec
