@@ -16,6 +16,8 @@
 
     ✓ TDD
 
+    ✓ DDD
+
     ✓ REST Assured
 
     ✓ Cypress
@@ -37,6 +39,10 @@
     ✓ Mockito
 
     ✓ Spock
+
+    ✓ XPath
+
+    ✓ Page Objects
 
 
 
