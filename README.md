@@ -1,14 +1,51 @@
 - Realizei um curso técnico em redes de computadores que fez com que eu pudesse ingressar na área da TI.
 
+
 - Fui professor de informática onde melhorei minhas habilidades de pesquisa, além de me identificar com a programação e o desenvolvimento de softwares.
+
 
 - Faço bacharelado em ciências da computação com o objetivo de me aprofundar em conceitos de cálculo, algoritmos, automação, inteligência artificial, aprendizado de máquina e outros assuntos relacionados.
 
+
 - Possuo certificações Agile em Scrum (SFPC e SFC), Kanban e DevOps.
+
 
 - Obtive conhecimento nas linguagens Java, Javascript, C#, Ruby e Golang.
 
+
 - Estudante de Testes de software e QA
+
+
+- Soft skills:
+
+    ✓ Comunicação assertiva
+
+    ✓ Colaboração
+
+    ✓ Organização e planejamento
+
+    ✓ Flexibilidade e adaptabilidade
+
+    ✓ Capacidade de resolver problemas
+
+    ✓ Pensamento criativo
+
+    ✓ Raciocínio crítico
+
+    ✓ Relacionamento interpessoal
+
+    ✓ Liderança
+
+    ✓ Visão geral
+
+    ✓ Gestão do tempo
+
+    ✓ Autoconfiança
+
+    ✓ Proatividade
+
+    ✓ Atitude positiva
+
 
 - Hard Skills:
 
