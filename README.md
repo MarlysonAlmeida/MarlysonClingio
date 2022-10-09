@@ -1,4 +1,4 @@
-- Tenho curso técnico em redes de computadores que fez com que eu pudesse ingressar na área da TI.
+- Realizei um curso técnico em redes de computadores que fez com que eu pudesse ingressar na área da TI.
 
 - Fui professor de informática onde melhorei minhas habilidades de pesquisa, além de me identificar com a programação e o desenvolvimento de softwares.
 
@@ -8,15 +8,13 @@
 
 - Obtive conhecimento nas linguagens Java, Javascript, C#, Ruby e Golang.
 
-- Estudante de Testes Automatizados
+- Estudante de Testes de software e QA
 
 - Hard Skills:
 
     ✓ BDD
 
     ✓ TDD
-
-    ✓ DDD
 
     ✓ REST Assured
 
@@ -26,8 +24,6 @@
 
     ✓ JUnit
 
-    ✓ XUnit
-
     ✓ Selenium Webdriver
 
     ✓ Rspec
@@ -35,14 +31,6 @@
     ✓ Httparty
 
     ✓ Cucumber
-
-    ✓ Mockito
-
-    ✓ Spock
-
-    ✓ XPath
-
-    ✓ Page Objects
 
 
 
