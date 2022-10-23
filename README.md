@@ -13,7 +13,7 @@
 - Obtive conhecimento nas linguagens Java, Javascript, C#, Ruby e Golang.
 
 
-- Analista de Testes de software e QA
+- Analista de Testes de software
 
 
 - Soft skills:
