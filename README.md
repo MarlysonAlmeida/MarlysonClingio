@@ -18,7 +18,7 @@
 
 - Soft skills:
 
-    ✓ Comunicação assertiva
+    ✓ Comunicação
 
     ✓ Colaboração
 
@@ -26,21 +26,11 @@
 
     ✓ Flexibilidade e adaptabilidade
 
-    ✓ Capacidade de resolver problemas
-
-    ✓ Pensamento criativo
-
-    ✓ Raciocínio crítico
-
     ✓ Relacionamento interpessoal
-
-    ✓ Liderança
 
     ✓ Visão geral
 
     ✓ Gestão do tempo
-
-    ✓ Autoconfiança
 
     ✓ Proatividade
 
