@@ -10,9 +10,6 @@
 - Possuo certificações Agile em Scrum (SFPC e SFC), Kanban e DevOps.
 
 
-- Obtive conhecimento nas linguagens Java, Javascript, C#, Ruby e Golang.
-
-
 - Analista de Testes com foco em automação
 
 
@@ -39,23 +36,33 @@
 
 - Hard Skills:
 
+    ✓ Java
+
+    ✓ Javascript
+
+    ✓ Golang
+
+    ✓ C#
+
+    ✓ Ruby
+
+    ✓ Ruby on Rails
+
+    ✓ PostgreSQL
+
+    ✓ HTML e CSS
+
     ✓ BDD
 
     ✓ TDD
 
-    ✓ REST Assured
-
     ✓ Cypress
-
-    ✓ Capybara
 
     ✓ JUnit
 
     ✓ Selenium Webdriver
 
     ✓ Rspec
-
-    ✓ Httparty
 
     ✓ Cucumber
 
