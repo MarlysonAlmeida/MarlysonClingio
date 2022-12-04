@@ -7,9 +7,6 @@
 - Possuo certificações em Scrum (SFPC e SFC), Kanban e DevOps.
 
 
-- Analista de Testes com foco em automação
-
-
 - Soft skills:
 
     ✓ Comunicação
