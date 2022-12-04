@@ -1,13 +1,10 @@
-- Realizei um curso técnico em redes de computadores que fez com que eu pudesse ingressar na área da TI.
-
-
-- Fui professor de informática onde melhorei minhas habilidades de pesquisa, além de me identificar com a programação e o desenvolvimento de softwares.
+- Fui professor de informática, onde melhorei minhas habilidades de pesquisa e me identifiquei com a programação e o desenvolvimento de software.
 
 
 - Faço bacharelado em ciências da computação com o objetivo de me aprofundar em conceitos de cálculo, algoritmos, automação, inteligência artificial, aprendizado de máquina e outros assuntos relacionados.
 
 
-- Possuo certificações Agile em Scrum (SFPC e SFC), Kanban e DevOps.
+- Possuo certificações em Scrum (SFPC e SFC), Kanban e DevOps.
 
 
 - Analista de Testes com foco em automação
