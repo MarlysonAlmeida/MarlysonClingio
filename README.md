@@ -6,6 +6,8 @@
 
 - Possuo certificações em Scrum (SFPC e SFC), Kanban e DevOps.
 
+- Analista de Testes apaixonado por Testes Automatizados
+
 
 - Soft skills:
 
