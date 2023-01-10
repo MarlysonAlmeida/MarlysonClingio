@@ -1,12 +1,12 @@
-- Fui professor de informática, onde melhorei minhas habilidades de pesquisa e me identifiquei com a programação e o desenvolvimento de software.
+- Fui professor de tecnologia, onde me identifiquei com a programação e o desenvolvimento de software, pesquisa acadêmica e inovação tecnológica
 
 
-- Faço bacharelado em ciências da computação com o objetivo de me aprofundar em conceitos de cálculo, algoritmos, automação, inteligência artificial, aprendizado de máquina e outros assuntos relacionados.
+- Faço bacharelado em ciências da computação com o objetivo de me aprofundar em conceitos de cálculo, algoritmos, automação, inteligência artificial, aprendizado de máquina e outros assuntos relacionados a essa ciência.
 
 
-- Possuo certificações em Scrum (SFPC e SFC), Kanban e DevOps.
+- Possuo certificações ágeis em Scrum (SFPC e SFC) e DevOps.
 
-- Analista de Testes com foco em automação
+- Analista de Testes com foco em automação e estudante de assuntos relacionados a testes automatizados: TDD, BDD, Cypress, Cucumber, Selenium e outros.
 
 
 - Soft skills:
