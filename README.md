@@ -6,8 +6,6 @@
 
 - Possuo certificações ágeis em Scrum (SFPC e SFC) e DevOps.
 
-- Analista de Testes com foco em automação e estudante de assuntos relacionados a testes automatizados: TDD, BDD, Cypress, Cucumber, Selenium e outros.
-
 
 - Soft skills:
 
@@ -32,22 +30,6 @@
 
 - Hard Skills:
 
-    ✓ Java
-
-    ✓ Javascript
-
-    ✓ Golang
-
-    ✓ C#
-
-    ✓ Ruby
-
-    ✓ Ruby on Rails
-
-    ✓ PostgreSQL
-
-    ✓ HTML e CSS
-
     ✓ BDD
 
     ✓ TDD
@@ -57,8 +39,6 @@
     ✓ JUnit
 
     ✓ Selenium Webdriver
-
-    ✓ Rspec
 
     ✓ Cucumber
 
