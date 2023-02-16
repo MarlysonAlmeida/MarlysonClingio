@@ -1,10 +1,10 @@
-- Fui professor de tecnologia, onde me identifiquei com a programação e o desenvolvimento de software, pesquisa acadêmica e inovação tecnológica
+- Fui professor de tecnologia, onde me identifiquei com a analise e o desenvolvimento de sistemas.
 
 
 - Faço bacharelado em ciências da computação com o objetivo de me aprofundar em conceitos de cálculo, algoritmos, automação, inteligência artificial, aprendizado de máquina e outros assuntos relacionados a essa ciência.
 
 
-- Possuo certificações ágeis em Scrum (SFPC e SFC) e DevOps.
+- Possuo certificações em Scrum (SFPC e SFC) e DevOps.
 
 
 - Soft skills:
@@ -22,8 +22,6 @@
     ✓ Visão geral
 
     ✓ Gestão do tempo
-
-    ✓ Proatividade
 
     ✓ Atitude positiva
 
