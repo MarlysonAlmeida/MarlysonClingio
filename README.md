@@ -1,4 +1,4 @@
-- Fui professor de tecnologia, onde me identifiquei com a analise e o desenvolvimento de sistemas.
+- Fui professor de informática e tecnologia, onde me identifiquei com a análise e o desenvolvimento de sistemas.
 
 
 - Faço bacharelado em ciências da computação com o objetivo de me aprofundar em conceitos de cálculo, algoritmos, automação, inteligência artificial, aprendizado de máquina e outros assuntos relacionados a essa ciência.
