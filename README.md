@@ -7,7 +7,9 @@
 - Possuo certificações em Scrum (SFPC e SFC) e DevOps.
 
 
-- Atuando como Analista de Testes com conhecimento e habilidades em:
+- Atuo como Analista de Testes Funcionais, Automatizados e de Performance.
+
+- Habilidades Técnicas:
 
   * Testes Funcionais e Integrados
 
