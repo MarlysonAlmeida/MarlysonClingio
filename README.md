@@ -15,13 +15,13 @@
 
   * Testes Mobile e WEB
 
-  * Testes Automatizados (Cypress | Selenium Webdriver)
+  * Automação (Cypress | Selenium Webdriver)
 
   * Testes de Performance (JMeter)
 
   * Testes Unitários (TDD | JUnit | RSpec)
 
-  * Especificação de Cenários de Teste (BDD | Cucumber | Gherkin)
+  * Especificação de Cenários (BDD | Cucumber)
 
 
 
