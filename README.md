@@ -9,19 +9,19 @@
 
 - Atuando como Analista de Testes com conhecimento e habilidades em:
 
--- Testes Funcionais e Integrados
+  * Testes Funcionais e Integrados
 
--- Testes de API (RestAssured | Postman)
+  * Testes de API (RestAssured | Postman)
 
--- Testes Mobile e WEB
+  * Testes Mobile e WEB
 
--- Testes Automatizados (Cypress | Selenium Webdriver)
+  * Testes Automatizados (Cypress | Selenium Webdriver)
 
--- Testes de Performance (JMeter)
+  * Testes de Performance (JMeter)
 
--- Testes Unitários (TDD | JUnit | RSpec)
+  * Testes Unitários (TDD | JUnit | RSpec)
 
--- Especificação de Cenários de Teste (BDD | Cucumber | Gherkin)
+  * Especificação de Cenários de Teste (BDD | Cucumber | Gherkin)
 
 
 
