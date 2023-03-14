@@ -1,20 +1,20 @@
-• Fui professor de informática e tecnologia, onde me identifiquei com a análise e o desenvolvimento de sistemas.
+- Fui professor de informática e tecnologia, onde me identifiquei com a análise e o desenvolvimento de sistemas.
 
 
-• Faço bacharelado em ciências da computação com o objetivo de me aprofundar em conceitos de cálculo, algoritmos, automação, inteligência artificial, aprendizado de máquina e outros assuntos relacionados a essa ciência.
+- Faço bacharelado em ciências da computação com o objetivo de me aprofundar em conceitos de cálculo, algoritmos, automação, inteligência artificial, aprendizado de máquina e outros assuntos relacionados a essa ciência.
 
 
-• Possuo certificações em Scrum (SFPC e SFC) e DevOps.
+- Possuo certificações em Scrum (SFPC e SFC) e DevOps.
 
 
-• Atuando como Analista de Testes com conhecimento e habilidades em:
-- Testes Funcionais e Integrados
-- Testes de API (RestAssured | Postman)
-- Testes Mobile e WEB
-- Testes Automatizados (Cypress | Selenium Webdriver)
-- Testes de Performance (JMeter)
-- Testes Unitários (TDD | JUnit | RSpec)
-- Especificação de Cenários de Teste (BDD | Cucumber | Gherkin)
+- Atuando como Analista de Testes com conhecimento e habilidades em:
+• Testes Funcionais e Integrados
+• Testes de API (RestAssured | Postman)
+• Testes Mobile e WEB
+• Testes Automatizados (Cypress | Selenium Webdriver)
+• Testes de Performance (JMeter)
+• Testes Unitários (TDD | JUnit | RSpec)
+• Especificação de Cenários de Teste (BDD | Cucumber | Gherkin)
 
 
 
