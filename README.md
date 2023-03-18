@@ -15,7 +15,7 @@
 
   * Automação (Cypress | Selenium Webdriver)
 
-  * Testes de Performance (JMeter)
+  * Testes de Performance (JMeter | K6)
 
   * Testes Unitários (TDD | JUnit)
 
