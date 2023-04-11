@@ -48,6 +48,7 @@ Telefone: (85) 98624-9480<br>
     <img align="center" alt="Marlyson-CSS" height="35" width="45" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg">
     <img align="center" alt="Marlyson-Bootstrap" height="35" width="45" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
     <img align="center" alt="Marlyson-PostgreSQL" height="35" width="45" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
+   <img align="center" alt="Marlyson-Gatling" height="35" width="45" src="https://github.com/devicons/devicon/blob/master/icons/gatling/gatling-plain-wordmark.svg">
 </div>
   
   ##
