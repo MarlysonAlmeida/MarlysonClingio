@@ -1,4 +1,4 @@
-- Fui professor de informática, onde me identifiquei com a análise e o desenvolvimento de sistemas.
+- Fui professor de tecnologia, onde me identifiquei com a análise e o desenvolvimento de sistemas.
 
 
 - Faço bacharelado em ciências da computação com o objetivo de me aprofundar em conceitos de cálculo, algoritmos, automação, inteligência artificial, aprendizado de máquina e outros assuntos relacionados a essa ciência.
@@ -7,7 +7,7 @@
 - Possuo certificações em Scrum (SFPC e SFC) e DevOps.
 
 
-- Sou Analista de Testes com habilidades em:
+- Analista de Testes com conhecimento em:
 
   * Testes Funcionais e Integrados
 
