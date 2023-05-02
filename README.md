@@ -7,21 +7,19 @@
 - Possuo certificações em Scrum (SFPC e SFC) e DevOps.
 
 
-- Analista de Testes com conhecimento em:
+- Analista de Testes com habilidades em:
 
   * Testes Funcionais e Integrados
 
-  * Testes em Mobile, WEB e Desktop
-
-  * Testes em APIs com Postman e RestSharp
+  * Testes em Mobile, WEB, API e Desktop
 
   * Automação (Cypress | Selenium Webdriver)
 
   * Testes de Performance (JMeter | K6)
 
-  * Testes Unitários (TDD | JUnit | NUnit)
+  * Testes Unitários (TDD | JUnit)
 
-  * Especificação de Cenários (BDD | Cucumber | SpecFlow)
+  * Cenários de Teste (BDD | Cucumber)
 
 
 
