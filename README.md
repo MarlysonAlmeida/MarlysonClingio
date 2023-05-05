@@ -13,7 +13,7 @@
 
   * Testes em Mobile, WEB, API e Desktop
 
-  * Automação (Cypress | Selenium Webdriver)
+  * Automação (Cypress | Selenium Webdriver | Robot Framework)
 
   * Testes de Performance (JMeter | K6)
 
