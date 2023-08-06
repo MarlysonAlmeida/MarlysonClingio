@@ -15,7 +15,7 @@
 
   * Automação de testes (Cypress | Selenium Webdriver | Robot Framework)
  
-  * Testes de performance (JMeter| K6)
+  * Testes de performance (JMeter | K6)
 
   * Testes Unitários (TDD | JUnit)
 
