@@ -1,23 +1,16 @@
-- Fui professor de tecnologia, onde me identifiquei com a análise de sistemas.
+Curso bacharelado em ciências da computação com o objetivo de me aprofundar em conceitos de cálculo, algoritmos, automação, inteligência artificial, aprendizado de máquina e outros assuntos relacionados a essa ciência.
 
 
-- Faço bacharelado em ciências da computação com o objetivo de me aprofundar em conceitos de cálculo, algoritmos, automação, inteligência artificial, aprendizado de máquina e outros assuntos relacionados a essa ciência.
+Possuo certificações em Scrum (SFPC e SFC), DevOps e cursos na área de desenvolvimento de software, testes automatizados e performance de testes.
 
 
-- Possuo certificações em Scrum (SFPC e SFC), DevOps e cursos na área de desenvolvimento de software, testes automatizados e performance de testes.
-
-
-- Analista de Testes com conhecimentos em:
+Habilidades:
 
   * Testes Funcionais, exploratórios, regressivos e Integrados
 
   * Testes em Mobile, WEB e API
 
   * Automação de testes (Cypress | Selenium Webdriver | Robot Framework)
- 
-  * Testes de performance (JMeter | K6)
-
-  * Testes Unitários (TDD | JUnit)
 
   * Especificação de Cenários de Teste (BDD | Cucumber | Gherkin)
 
