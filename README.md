@@ -1,7 +1,7 @@
 Curso bacharelado em ciências da computação com o objetivo de me aprofundar em conceitos de cálculo, algoritmos, automação, inteligência artificial, aprendizado de máquina e outros assuntos relacionados a essa ciência.
 
 
-Possuo certificações em Scrum (SFPC e SFC), DevOps e cursos na área de desenvolvimento de software, testes automatizados e performance de testes.
+Possuo certificações em Scrum (SFPC e SFC), DevOps e cursos na área de desenvolvimento de software e testes automatizados.
 
 
 Habilidades:
