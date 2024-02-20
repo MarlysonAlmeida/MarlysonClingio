@@ -1,7 +1,7 @@
-Curso bacharelado em ciências da computação com o objetivo de me aprofundar em conceitos de cálculo, algoritmos, automação, inteligência artificial, aprendizado de máquina e outros assuntos relacionados a essa ciência.
+Curso bacharelado em ciências da computação com o objetivo de me aprofundar em conceitos de cálculo, algoritmos, automação, inteligência artificial, aprendizado de máquina e outros assuntos relacionados.
 
 
-Possuo certificações em Scrum (SFPC e SFC), DevOps e cursos na área de desenvolvimento de software e testes automatizados.
+Possuo certificações em Scrum, DevOps e cursos na área de desenvolvimento de software e testes automatizados.
 
 
 Habilidades:
@@ -22,9 +22,9 @@ Telefone: (85) 98624-9480<br>
 
 
 <div>
-  <a href="https://github.com/MarlysonClingio">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarlysonClingio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarlysonClingio&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/MarlysonAlmeida">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarlysonAlmeida&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarlysonAlmeida&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
   <div style="display: inline_block"><br>
